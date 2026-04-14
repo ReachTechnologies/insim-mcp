@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "insim": {
+      "command": "insim-mcp",
+      "args": [],
+      "env": {
+        "INSIM_LOGIN": "your@email.com",
+        "INSIM_ACCESS_KEY": "your-access-key"
+      }
+    }
+  }
+}

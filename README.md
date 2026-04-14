@@ -252,9 +252,17 @@ Get your credentials from your [inSIM account](https://www.insim.app) under Sett
 
 ## Study cases
 
-- [Real estate agent: AI follow-up after open house](./docs/use-cases/) *(coming soon)*
-- [E-commerce: AI answering SMS at night](./docs/use-cases/) *(coming soon)*
-- [Recruitment: AI outreach to candidates](./docs/use-cases/) *(coming soon)*
+| Sector | Use Case | Description |
+|--------|----------|-------------|
+| E-commerce | [Night support AI agent](./docs/use-cases/ecommerce-night-support.md) | AI triages SMS, auto-replies simple questions, flags complex ones |
+| Recruitment | [Autonomous prospecting agent](./docs/use-cases/autonomous-prospecting-agent.md) | AI contacts 50 candidates/day, qualifies responses, builds pipeline |
+| SaaS | [SMS onboarding](./docs/use-cases/saas-sms-onboarding.md) | AI sends personalized nudges at key onboarding moments |
+| Healthcare | [Appointment reminders](./docs/use-cases/healthtech-appointment-reminders.md) | AI sends reminders, handles rescheduling via SMS |
+| Logistics | [Delivery notifications](./docs/use-cases/logistics-delivery-notifications.md) | AI proactively updates customers on package status |
+| Finance | [Debt collection agent](./docs/use-cases/debt-collection-followup.md) | AI sends graduated payment reminders, tracks responses |
+| Product | [Competitive intelligence alerts](./docs/use-cases/competitive-intelligence-alerts.md) | AI monitors competitors, sends concise SMS alerts |
+
+> See also: [insim-cli study cases](https://github.com/ReachTechnologies/insim-cli#study-cases) (terminal scripts) and [n8n-nodes-insim study cases](https://github.com/ReachTechnologies/n8n-nodes-insim#study-cases) (no-code workflows).
 
 ## Contributing
 

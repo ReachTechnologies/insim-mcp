@@ -175,9 +175,8 @@ The consultants now spend their time where it matters: talking to people who alr
 
 ## Variations
 
-- [AI recruitment agent: University campus outreach](./recruitment-campus-outreach.md) *(coming soon)*
-- [AI collections agent: Invoice follow-up](./collections-invoice-followup.md) *(coming soon)*
-- [AI competitive intelligence: Alert by SMS](./competitive-intelligence-alerts.md) *(coming soon)*
+- [Debt collection: Invoice follow-up agent](./debt-collection-followup.md)
+- [Competitive intelligence: SMS alerts](./competitive-intelligence-alerts.md)
 
 ## Related study cases
 

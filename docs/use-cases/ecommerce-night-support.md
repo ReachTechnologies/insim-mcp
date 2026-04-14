@@ -139,9 +139,9 @@ The key insight: customers don't need a human at 11pm. They need a real answer f
 
 ## Variations
 
-- [SaaS CTO: SMS onboarding for new users](./saas-sms-onboarding.md) *(coming soon)*
-- [Healthtech CTO: Patient appointment reminders](./healthtech-appointment-reminders.md) *(coming soon)*
-- [Logistics CTO: Delivery notifications](./logistics-delivery-notifications.md) *(coming soon)*
+- [SaaS CTO: SMS onboarding for new users](./saas-sms-onboarding.md)
+- [Healthtech: Patient appointment reminders](./healthtech-appointment-reminders.md)
+- [Logistics: Delivery notifications](./logistics-delivery-notifications.md)
 
 ## Related study cases
 
